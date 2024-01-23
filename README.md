@@ -32,7 +32,7 @@ This repository contains the source code for a classic Snake game implemented in
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/iamrishigandhi/snake.git
    ```
 
 2. Install Pygame:
@@ -72,4 +72,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
