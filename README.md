@@ -32,7 +32,7 @@ This repository contains the source code for a classic Snake game implemented in
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iamrishigandhi/snake.git
+   git clone https://github.com/iamrishigandhi/snake
    ```
 
 2. Install Pygame:
@@ -43,10 +43,10 @@ This repository contains the source code for a classic Snake game implemented in
 
 ## Usage
 
-Run the game by executing the `snake_game.py` file:
+Run the game by executing the `snake.py` file:
 
 ```bash
-python snake_game.py
+python snake.py
 ```
 
 Follow the on-screen instructions to control the snake and enjoy the game!
