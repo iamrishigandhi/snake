@@ -16,9 +16,9 @@ red = (255, 0, 0)
 
 # Set up the snake
 snake_block = 10
-snake_speed = 15
+snake_speed = 10
 
-font_style = pygame.font.SysFont(None, 50)
+font_style = pygame.font.SysFont(None, 40)
 
 def our_snake(snake_block, snake_list):
     for x in snake_list:
@@ -48,7 +48,7 @@ def gameLoop():
 
         while game_close == True:
             display.fill(black)
-            message("You Lost! Press Q-Quit or C-Play Again", red)
+            message("Game Over! Press Q to Quit or C to Play Again", red)
             our_snake(snake_block, snake_list)
             pygame.display.update()
 
